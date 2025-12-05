@@ -5,18 +5,28 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="horizontal"
-    tools:context=".MainActivity"
-    android:paddingTop="25dp">
+
+    android:orientation="vertical"
+
+    tools:context=".MainActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorToolbar"
+        android:elevation="0dp"
+        app:popupTheme="@style/EstiloMenuDesplegable"
+        app:theme="@style/ThemeOverlay.AppCompat.DayNight.ActionBar"
+        app:titleTextColor="?attr/colorTexto" />
 
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/nav_host_fragment"
         android:name="androidx.navigation.fragment.NavHostFragment"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
         app:defaultNavHost="true"
         app:navGraph="@navigation/nav_graph" />
+
 </LinearLayout>
-
-
-

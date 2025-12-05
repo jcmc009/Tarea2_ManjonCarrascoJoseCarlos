@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pikmin illustrator</string>
+    <string name="about_message">Application developed by José Carlos Manjón Carrasco
+    Version 1.0</string>
+    <string name="about_title">Pikmin illustrator\n</string>
+    <string name="ajustes_title">Settings</string>
+    <string name="menu_about">About...</string>
+    <string name="menu_settings">Settings</string>
+    <string name="pikmin_details">Pikmin in detail</string>
+    <string name="has_iniciado_pikmin">You have started Pikmin</string>
+    <string name="snackbar">Welcome to the Pikmin world!</string>
+    <string name="language_en">English</string>
+    <string name="language_es">Spanish</string>
+    <string name="modo_claro">Light mode</string>
+    <string name="modo_oscuro">Dark mode</string>
+    <string name="menu_mode">Mode</string>
+    <string name="menu_language">Language setting</string>
+    <string name="pikmin_red">Red Pikmin</string>
+    <string name="pikmin_red_description">Red Pikmin are characterized by their scarlet-colored bodies and pointed noses. In addition to the plant traits typical of their species, they exhibit animal-like characteristics such as a strong fighting spirit and a high degree of curiosity. They have great adaptability, as they are not only resistant to extreme heat but also tend to inhabit a wide variety of ecosystems.</string>
+    <string name="pikmin_red_abilities">*Fire immunity\n*High offensive capability</string>
+    <string name="pikmin_purple">Purple Pikmin</string>
+    <string name="pikmin_purple_description">Purple Pikmin are characterized by their robust and resilient bodies. They are stronger and larger than the rest of their species. They weigh 10 times more than any other Pikmin. Like White Pikmin, they can only be born from bouncing sprouts found in underground regions, making them a unique species.</string>
+    <string name="pikmin_purple_abilities">*Heavy weight\n*High carrying capacity\n*Born underground</string>
+    <string name="pikmin_yellow">Yellow Pikmin</string>
+    <string name="pikmin_yellow_description">This type of Pikmin is characterized by its yellow body and a pair of lamellae resembling ears that allow them to dig quickly and reach great heights when thrown. Another distinguishing trait is their ability to conduct electricity. They are not only resistant to it but also seem to enjoy it.</string>
+    <string name="pikmin_yellow_abilities">*Resistance to electricity\n*High flight capability\n*Excellent diggers</string>
+    <string name="pikmin_blue">Blue Pikmin</string>
+    <string name="pikmin_blue_description">Blue Pikmin are characterized by their blue-colored bodies and inscrutable facial expressions. Unlike most radiambulant species, which cannot breathe underwater, Blue Pikmin have gills that resemble a mouth. These gills allow them to survive in both aquatic and terrestrial ecosystems.</string>
+    <string name="pikmin_blue_abilities">*Underwater breathing\n*Excellent swimmers</string>
+    <string name="pikmin_white">White Pikmin</string>
+    <string name="pikmin_white_description">White Pikmin are characterized by their white bodies and red eyes. Their small bodies secrete a potent poison, which also makes them immune to certain toxins. White Pikmin seeds can be obtained through ivory bouncing sprouts that only grow in underground regions.</string>
+    <string name="pikmin_white_abilities">*Poison immunity\n*Poisonous bodies\n*Speed</string>
+    <string name="pikmin_rock">Rock Pikmin</string>
+    <string name="pikmin_rock_description">Rock Pikmin are a type of parasitic Pikmin called "Ermikmin" that use a stone as a host. Similar to a seed that takes root through cracks in a rock, the Pikmin’s roots penetrate the stone.</string>
+    <string name="pikmin_rock_abilities">*Unbreakable\n*Robust\n*Non-adhesive</string>
+    <string name="pikmin_alado">Winged Pikmin</string>
+    <string name="pikmin_alado_description">Winged Pikmin are characterized by their pink bodies and prominent blue eyes that resemble lenses. They move swiftly through the air with their wings, but their attacks do not cause much damage.</string>
+    <string name="pikmin_alado_abilities">*Flight capability\n*Weak attacks</string>
+    <string name="pikmin_glow">Glow Pikmin</string>
+    <string name="pikmin_glow_description">Glow Pikmin are characterized by their radiant green bodies. When the leaf on their head blooms, it takes the shape of a star. They have several traits that distinguish them from other types of Pikmin, one of which is that instead of sprouting from onions, they sprout from lumilomas found only at night and in underground regions.</string>
+    <string name="pikmin_glow_abilities">*Nocturnal and underground activity\n*Unusual behavior</string>
+    <string name="pikmin_ice">Ice Pikmin</string>
+    <string name="pikmin_ice_description">This species has a scarlet abdomen speckled with white spots. Their habits are nocturnal, so during the day they are usually found sleeping. If awakened, they will attempt to devour anything in front of them. There is a wide variety of gusarapérrids, and they are considered to be at the top of the food chain.</string>
+    <string name="pikmin_ice_abilities">*Nocturnal</string>
+    <string name="snack_bar_welcome">You have started Pikmin</string>
+    <string name="toast_selected">You have selected </string>
+</resources>

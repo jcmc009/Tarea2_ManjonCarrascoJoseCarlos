@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="colorBackgroundSettings" format="color" />
+    <attr name="colorTexto" format="color" />
+    <attr name="colorTarjeta" format="color" />
+    <attr name="colorToolbar" format="color" />
+
+</resources>

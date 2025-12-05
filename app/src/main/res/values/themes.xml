@@ -1,9 +1,33 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.Tarea2_ManjonCarrascoJoseCarlos" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+<resources>
+
+    <style name="TemaClaro" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/claro_toolbar</item>
+        <item name="colorBackgroundSettings">@color/claro_background</item>
+        <item name="colorTexto">@color/claro_text</item>
+        <item name="colorTarjeta">@color/claro_card</item>
+        <item name="colorToolbar">@color/claro_toolbar</item>
+        <item name="colorControlNormal">?attr/colorTexto</item>
+        <item name="android:windowLightStatusBar">true</item>
     </style>
 
-    <style name="Theme.Tarea2_ManjonCarrascoJoseCarlos" parent="Base.Theme.Tarea2_ManjonCarrascoJoseCarlos" />
+    <style name="EstiloMenuDesplegable" parent="ThemeOverlay.Material3.Toolbar.Surface">
+        <item name="android:popupBackground">?attr/colorToolbar</item>
+        <item name="android:background">?attr/colorToolbar</item>
+        <item name="android:colorBackground">?attr/colorToolbar</item>
+        <item name="android:itemBackground">?attr/colorToolbar</item>
+        <item name="android:textColor">?attr/colorTexto</item>
+    </style>
+
+    <style name="TemaOscuro" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/oscuro_toolbar</item>
+        <item name="colorBackgroundSettings">@color/oscuro_background</item>
+        <item name="colorTexto">@color/oscuro_text</item>
+        <item name="colorTarjeta">@color/oscuro_card</item>
+        <item name="colorToolbar">@color/oscuro_toolbar</item>
+        <item name="colorControlNormal">?attr/colorTexto</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.Tarea2_ManjonCarrascoJoseCarlos" parent="TemaClaro" />
+
 </resources>

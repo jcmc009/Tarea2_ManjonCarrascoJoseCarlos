@@ -1,5 +1,47 @@
 <resources>
-    <string name="app_name">Tarea2_ManjonCarrascoJoseCarlos</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name">Pikmin illustrator</string>
+    <string name="about_message">Aplicación desarrollada por José Carlos Manjón Carrasco
+    Versión 1.0</string>
+    <string name="snack_bar_welcome">¡Bienvenidos al mundo Pikmin!</string>
+    <string name="toast_selected">Has seleccionado</string>
+    <string name="about_title">Pikmin illustrator\n</string>
+    <string name="ajustes_title">Ajustes</string>
+    <string name="menu_about">Acerca de...</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="pikmin_details">Pikmin al detalle</string>
+    <string name="has_iniciado_pikmin">Has iniciado Pikmin</string>
+    <string name="snackbar">¡Bienvenidos al mundo Pikmin!</string>
+    <string name="language_en">English</string>
+    <string name="language_es">Español</string>
+    <string name="modo_claro">Modo claro</string>
+    <string name="modo_oscuro">Modo oscuro</string>
+    <string name="menu_mode">Modo</string>
+    <string name="menu_language">Ajuste idioma</string>
+    <string name="pikmin_red"> Pikmin rojo</string>
+    <string name="pikmin_red_description"> Los Pikmin rojos se caracterizan por su cuerpo de color escarlata y nariz puntiaguda. Además de los rasgos vegetales propios de su especie, presentan características animales como un fuerte espíritu combativo y un grado elevado de curiosidad. Tienen una gran capacidad de adaptación, pues no solo son resistentes al calor extremo, sino que también suelen habitar en una gran variedad de ecosistemas.</string>
+    <string name="pikmin_red_abilities">*Inmunidad al fuego\n*Alta capacidad ofensiva</string>
+    <string name="pikmin_purple">Pikmin morado</string>
+    <string name="pikmin_purple_description"> Los Pikmin morados se caracterizan por su cuerpo robusto y resistente. Son más fuertes y grandes que el resto de su especie. Pesan 10 veces más que cualquier otro Pikmin. Al igual que los Pikmin blancos, solo pueden nacer a partir de brotes rebotadores que solo se encuentran en regiones subterráneas, por lo que son considerados una especie única.</string>
+    <string name="pikmin_purple_abilities">*Peso elevado\n*Alta capacidad de carga\n* Nacen en el subsuelo</string>
+    <string name="pikmin_yellow">Pikmin amarillo</string>
+    <string name="pikmin_yellow_description"> Este tipo de Pikmin se caracteriza por su cuerpo de color amarillo y un par de lamelas semejantes a orejas que les permiten cavar con rapidez y alcanzar grandes alturas al ser lanzados. Otro rasgo que los distingue es la capacidad de sus cuerpos de conducir la electricidad. Además no solo son resistentes a ella, sino que parecen disfrutarla.</string>
+    <string name="pikmin_yellow_abilities">*Resistencia a la electricidad\n*Capacidad de vuelo elevado\n* Excelentes cavadores</string>
+    <string name="pikmin_blue">Pikmin azul</string>
+    <string name="pikmin_blue_description"> Los Pikmin azules se caracterizan por su cuerpo de color azul y expresión facial indescifrable. A diferencia de la mayoría de las especies radiambulares, que no pueden respirar bajo el agua, los Pikmin azules cuentan con branquias que se confunden con una boca. Esas branquias les permiten sobrevivir en ecosistemas acuáticos y terrestres.</string>
+    <string name="pikmin_blue_abilities">*Respiración bajo el agua\n*Excelentes nadadores</string>
+    <string name="pikmin_white">Pikmin blanco</string>
+    <string name="pikmin_white_description"> Los Pikmin blancos se caracterizan por su cuerpo de color blanco y ojos rojos. Sus pequeños cuerpos segregan un potente veneno, lo que a su vez los hace inmunes a ciertos venenos. Las semillas de Pikmin blancos se pueden obtener por medio de brotes rebotadores marfil que solo crecen en regiones subterráneas.</string>
+    <string name="pikmin_white_abilities">*Inmunidad al veneno\n*Cuerpos venenosos\n*Velocidad</string>
+    <string name="pikmin_rock">Pikmin pétreo</string>
+    <string name="pikmin_rock_description"> Los Pikmin pétreos son un tipo de Pikmin parasitario llamado "Ermikmin" que toma como huésped una piedra y, de manera similar a una semilla que echa raíces a través de las grietas de una roca, las raíces del Pikmin penetran la piedra.</string>
+    <string name="pikmin_rock_abilities">*Inquebrantables\n*Robustos\n*No adherentes</string>
+    <string name="pikmin_alado">Pikmin alado</string>
+    <string name="pikmin_alado_description"> Los Pikmin alados se caracterizan por su cuerpo de color rosa y prominentes ojos azules que parecen lentes. Se desplazan ágilmente por los aires con sus alas, pero sus ataques no causan mucho daño.</string>
+    <string name="pikmin_alado_abilities">*Capacidad de vuelo\n*Ataques débiles</string>
+    <string name="pikmin_glow">Pikmin alado</string>
+    <string name="pikmin_glow_description"> Los Pikmin luminosos se caracterizan por su cuerpo de color verde radiante. Al florecer la hoja que tienen en la cabeza, esta toma una forma de estrella. Tienen varias características que los distinguen de los otros tipos de Pikmin, una de ellas es que en vez de brotar de cebollas brotan de lumilomas que solo se encuentran en la noche y en regiones subterráneas.</string>
+    <string name="pikmin_glow_abilities">*Actividad nocturna y en regiones subterráneas\n*Comportamiento inusual</string>
+    <string name="pikmin_ice">Pikmin alado</string>
+    <string name="pikmin_ice_description"> Esta especie tiene el abdomen escarlata salpicado de motas blancas. Sus hábitos son nocturnos, por lo que de día suelen encontrarse durmiendo. Si son despertados, intentarán engullir cualquier cosa que tengan enfrente. Hay una gran variedad de gusarapérridos, y se considera que están en la cima de la cadena alimenticia.</string>
+    <string name="pikmin_ice_abilities">*Nocturnos</string>
 </resources>

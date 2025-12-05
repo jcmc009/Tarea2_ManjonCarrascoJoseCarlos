@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="Theme.Tarea2_ManjonCarrascoJoseCarlos" parent="TemaClaro">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:windowSplashScreenBackground">@color/splash</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/pikmin_spash</item>
+
+    </style>
+
+
+</resources>

@@ -1,14 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="30dp"
     tools:context=".DetailsFragment">
 
-    <!-- TODO: Update blank fragment layout -->
+    <!-- Título centrado arriba -->
     <TextView
+        android:textColor="?attr/colorTexto"
+        android:id="@+id/character_name"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:gravity="center"
+        android:text="Details Fragment"
+        android:textSize="30sp"
+        android:textStyle="bold" />
 
-</FrameLayout>
+    <!-- Imagen debajo del título -->
+    <ImageView
+        android:id="@+id/characterImage"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_marginBottom="16dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/pikmin_red" />
+
+    <!-- Descripción debajo de la imagen -->
+    <TextView
+        android:id="@+id/characterDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:ellipsize="end"
+        android:textColor="?attr/colorTexto"
+        android:gravity="center"
+        android:text="Aquí irá la descripción del personaje"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/characterAbilities"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="Aquí irá las habilidades"
+        android:textSize="16sp"
+        android:textColor="?attr/colorTexto"/>
+
+</LinearLayout>

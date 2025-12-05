@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    <!-- Colores base -->
     <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="splash">#FFFFFFFF</color>
+
+    <!-- Modo Claro -->
+    <color name="claro_primary">#2E7D19</color>
+    <color name="claro_background">#FFFFFF</color>
+    <color name="claro_text">#FF000000</color>
+    <color name="claro_card">#F5F5F5</color>
+    <color name="claro_toolbar">#2E7D19</color>
+
+    <!-- Modo Oscuro -->
+    <color name="oscuro_primary">#66BB6A</color>
+    <color name="oscuro_background">#121212</color>
+    <color name="oscuro_text">#A5D6A7</color>
+    <color name="oscuro_card">#1E1E1E</color>
+    <color name="oscuro_toolbar">#1F1F1F</color>
+
+
+
 </resources>
